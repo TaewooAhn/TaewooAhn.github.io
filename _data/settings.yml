@@ -173,7 +173,7 @@ portfolio-items:
   - image : "assets/images/portfolio/melon commercial.jpg"
     url: "/meloncommercial"
     portfolio-type:
-      - type: "Motion Graphic"
+      - type: "Video"
 
 
 #-------------------------------
