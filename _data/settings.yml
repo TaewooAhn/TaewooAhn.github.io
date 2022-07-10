@@ -6,7 +6,7 @@ logo:
 author: Ahn Taewoo
 description: 태우의 포트폴리오 사이트 입니다 :)
 email: taewoo997142@gmail.com
-phone: +82 10 3304 1935
+phone: +82 10 7142 6706
 address: Seoul, Republic of Korea
 copyright: Copyright 2022. Ahn Taewoo.
 
@@ -37,7 +37,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Jung Yunseong <br> Full-stack designer
+  hero-title: Hi! I’m <br> Ahn Taewoo <br> Full-stack designer
 
 social:
 - {icon: "ti-github", link: "http://www.naver.com/"}
@@ -154,11 +154,6 @@ portfolio-items:
     url: "/studioapartment"
     portfolio-type:
       - type: "CG Art"
-
-  - image : "assets/images/portfolio/modern bathroom.jpg"
-    url: "/modernbathroom"
-    portfolio-type:
-      - type: "CG Art"
       
   - image : "assets/images/portfolio/fantasy manipulation.jpg"
     url: "/fantasymanipulation"
@@ -185,4 +180,4 @@ portfolio-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: cysseo1@naver.com
+contact-email: taewoo997142@gmail.com
