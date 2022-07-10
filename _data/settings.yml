@@ -48,9 +48,9 @@ social:
 
 # About Section
 blurb:
-  I'm a student who dreams of becoming video artist</br>
-  This blog introduce school projects and personal works</br>
-  Using softwares Adobe Photoshop, AfterEffect, Premiere Pro, Illustrator, Xd
+  I'm a student who dreams of becoming video artist.</br>
+  This blog introduce school projects and personal works.</br>
+  Using softwares: Adobe Photoshop, AfterEffect, Premiere Pro, Illustrator, Xd.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -61,21 +61,12 @@ blurb-btn-name: know more
 
 skills-title: Skills
 skills:
-- {name: Photoshop CC, color: '#31a8ff', value: '90%'}
-- {name: Illustration CC, color: '#ff9a00', value: '50%'}
-- {name: Premiere Pro CC, color: '#7a7acc', value: '70%'}
-- {name: After Effects CC, color: '#9999ff', value: '70%'}
-- {name: 3DS MAX, color: '#26b1b1', value: '70%'}
-- {name: MAYA, color: '#bcdadc', value: '70%'}
-
-
-#-------------------------------
-# Exprerience Section
-
-experience-title: Experience
-experience:
-- {name: 공보정훈병, icon: 'ex_1.png', date: '2019.05 - 2021.03', organization: 'Air Force </br> Education&Training Command'}
-- {name: PD, icon: 'ex_1.png', date: '2022.01 - ', organization: 'eduwill'}
+- {name: Photoshop CC, color: '#31a8ff', value: '50%'}
+- {name: Illustration CC, color: '#ff9a00', value: '70%'}
+- {name: Premiere Pro CC, color: '#7a7acc', value: '80%'}
+- {name: After Effects CC, color: '#9999ff', value: '80%'}
+- {name: Camera Skills, color: '#26b1b1', value: '90%'}
+- {name: MAYA, color: '#bcdadc', value: '50%'}
 
 
 #-------------------------------
@@ -83,9 +74,8 @@ experience:
 
 education-title: Education
 education:
-- {name: 미디어디자인, date: '2018 - ', organization: '경기과학기술대학교, 경기도 시흥'}
-- {name: CG 아티스트, date: '2018', organization: 'MIMIK STUDIOS, 뉴질랜드'}
-- {name: 자연계, date: '2015 - 2018', organization: '포항고등학교, 경상북도 포항'}
+- {name: Media Design, date: '2019 - ', organization: 'Gyeonggi University of Science and Technology, Siheung-si, Gyeonggido'}
+- {name: Natural Sciences, date: '2015 - 2018', organization: 'Muan High School, Muan, Jeollanamdo'}
 
 
 
