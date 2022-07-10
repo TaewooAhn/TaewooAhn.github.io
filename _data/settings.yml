@@ -116,8 +116,8 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "CG Art",
-    type : "CG Art"
+    title : "Video",
+    type : "Video"
   }
 - {
     title : "Motion Graphic",
@@ -132,7 +132,7 @@ portfolio-items:
   - image : "assets/images/portfolio/hill house_1.jpg"
     url: "/hillhouse"
     portfolio-type:
-     - type: "CG Art"
+     - type: "Video"
      - type: "Concept Art"
       
   - image : "assets/images/portfolio/sunset kitchen.jpg"
